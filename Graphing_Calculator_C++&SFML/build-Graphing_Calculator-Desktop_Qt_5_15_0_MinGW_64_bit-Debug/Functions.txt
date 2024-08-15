@@ -1,0 +1,12 @@
+sin ( x )
+cos ( x )
+x
+x ^ 2
+log ( x )
+x ^ 3
+x ^ 2 + x + 1
+sin ( 1 / x )
+cos ( 1 / x )
+sin ( cos ( x ) )
+cos ( x ^ 2 + 1 )
+tan ( 1 / x ^ 2 )
